@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Michael B. Wood
 
-<!--
-**PhantomOSG-25/PhantomOSG-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am completing a **B.S. in Computer Science with a concentration in Software Engineering** and preparing to move from hands-on field operations into technology. I am especially interested in application support, software quality assurance, systems analysis, and select junior development roles.
 
-Here are some ideas to get you started:
+My background in field service, construction, logistics, equipment operation, customer service, and business ownership gives me a practical approach to software: understand the real problem, communicate clearly, document the work, and verify the result.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+| Project | What it demonstrates | Technologies |
+|---|---|---|
+| [Raspberry Pi Thermostat System](https://github.com/PhantomOSG-25/CS_499_ePortfolio) | Embedded software, state-machine design, hardware integration, and data persistence | Python, Linux, SQLite, Raspberry Pi |
+| [Deep Q-Learning Treasure Maze](https://github.com/PhantomOSG-25/CS-370-Current-Emerging-Trends) | Reinforcement learning, neural networks, experience replay, and model evaluation | Python, TensorFlow, Keras |
+| [Animal Rescue CRUD Module](https://github.com/PhantomOSG-25/CS-340-Client-Server-Development) | Reusable data access, database operations, and client-server design | Python, MongoDB, PyMongo |
+| [Java Service Validation and Testing](https://github.com/PhantomOSG-25/CS-320-Software-Test-Automation) | Requirements-based validation, unit-test design, and boundary testing | Java, JUnit |
+
+## Technical Foundation
+
+- **Programming and data:** Python, Java, SQL, MySQL, MongoDB, SQLite, and foundational JavaScript
+- **Systems and tools:** Linux, Bash, Git, GitHub, Raspberry Pi, REST APIs, and client-server concepts
+- **Quality and analysis:** Unit testing, validation, debugging, root-cause analysis, requirements, Agile, Scrum, and technical documentation
+
+## Current Direction
+
+- Completing bachelor's coursework in August 2026
+- Planning to begin an M.S. in Artificial Intelligence in September 2026, subject to final enrollment plans
+- Seeking remote, hybrid, or on-site opportunities where troubleshooting, reliability, testing, communication, and continuous learning matter
+
+## Connect
+
+- [Portfolio](https://phantomosg-25.github.io/michaelbwood.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/michael-wood-752082361)
