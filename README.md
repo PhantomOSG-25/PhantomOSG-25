@@ -11,7 +11,7 @@ My background in field service, construction, logistics, equipment operation, cu
 | [Raspberry Pi Thermostat System](https://github.com/PhantomOSG-25/raspberry-pi-thermostat) | Embedded software, state-machine design, hardware integration, and data persistence | Python, Linux, SQLite, Raspberry Pi |
 | [Deep Q-Learning Treasure Maze](https://github.com/PhantomOSG-25/deep-q-learning-treasure-maze) | Reinforcement learning, neural networks, experience replay, and model evaluation | Python, TensorFlow, Keras |
 | [Animal Rescue CRUD Module](https://github.com/PhantomOSG-25/animal-rescue-dashboard) | Reusable data access, database operations, and client-server design | Python, MongoDB, PyMongo |
-| [Java Service Validation and Testing](https://github.com/PhantomOSG-25/java-service-validation) | Requirements-based validation, unit-test design, and boundary testing | Java, JUnit |
+| [Java Service Validation and Testing](https://github.com/PhantomOSG-25/CS-320-Software-Test-Automation) | Requirements-based validation, unit-test design, and boundary testing | Java, JUnit |
 
 ## Technical Foundation
 
