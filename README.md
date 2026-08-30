@@ -1,6 +1,6 @@
 # Hi, I'm Michael B. Wood
 
-I have completed the coursework for a **B.S. in Computer Science with a concentration in Software Engineering** and am awaiting commencement. I am moving from hands-on field operations into technology, with a focus on application support, software quality assurance, systems analysis, and select junior development roles.
+I have completed the degree requirements for a **B.S. in Computer Science with a concentration in Software Engineering**, with anticipated conferral on September 1, 2026. I am moving from hands-on field operations into technology, with a focus on application support, software quality assurance, systems analysis, and select junior development roles.
 
 My background in field service, construction, logistics, equipment operation, customer service, and business ownership gives me a practical approach to software: understand the real problem, communicate clearly, document the work, and verify the result.
 
