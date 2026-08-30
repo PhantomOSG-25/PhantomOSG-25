@@ -1,36 +1,31 @@
-# Michael B. Wood
+# Hi, I'm Michael B. Wood
 
-## Software engineering student building dependable, security-minded systems
+I am completing a **B.S. in Computer Science with a concentration in Software Engineering** and preparing to move from hands-on field operations into technology. I am especially interested in application support, software quality assurance, systems analysis, and select junior development roles.
 
-I build practical software across C++, Python, Java, Android, web applications, and embedded systems. My portfolio emphasizes readable design, automated verification, secure defaults, and clear technical communication.
+My background in field service, construction, logistics, equipment operation, customer service, and business ownership gives me a practical approach to software: understand the real problem, communicate clearly, document the work, and verify the result.
 
-My experience combines hands-on field work with formal software-engineering study. That perspective helps me ask both questions: **Does the software work?** and **Will it work for the people and conditions that depend on it?**
+## Featured Projects
 
-## Featured projects
+| Project | What it demonstrates | Technologies |
+|---|---|---|
+| [Raspberry Pi Thermostat System](https://github.com/PhantomOSG-25/raspberry-pi-thermostat) | Embedded software, state-machine design, hardware integration, and data persistence | Python, Linux, SQLite, Raspberry Pi |
+| [Deep Q-Learning Treasure Maze](https://github.com/PhantomOSG-25/deep-q-learning-treasure-maze) | Reinforcement learning, neural networks, experience replay, and model evaluation | Python, TensorFlow, Keras |
+| [Animal Rescue CRUD Module](https://github.com/PhantomOSG-25/animal-rescue-dashboard) | Reusable data access, database operations, and client-server design | Python, MongoDB, PyMongo |
+| [Java Service Validation and Testing](https://github.com/PhantomOSG-25/java-service-validation) | Requirements-based validation, unit-test design, and boundary testing | Java, JUnit |
 
-| Project | What it demonstrates |
-| --- | --- |
-| [CS 465 Full Stack Development](https://github.com/PhantomOSG-25/CS-465-Full-Stack-Development) | Full-stack application structure, APIs, data flow, and maintainable delivery |
-| [CS 360 Mobile Architecture](https://github.com/PhantomOSG-25/CS-360-Mobile-Architecture-and-Programming) | Android architecture, stateful workflows, and emulator verification |
-| [CS 320 Software Test Automation](https://github.com/PhantomOSG-25/CS-320-Software-Test-Automation) | Deterministic Java tests, coverage, traceability, and CI verification |
-| [CS 405 Secure Coding](https://github.com/PhantomOSG-25/CS-405-Secure-Coding) | C++ defensive programming, threat modeling, CMake, and security tests |
-| [CS 255 Systems Analysis](https://github.com/PhantomOSG-25/CS-255-System-Analysis-and-Design) | Requirements, architecture, traceability, and client-focused documentation |
-| [CS 350 Embedded Systems](https://github.com/PhantomOSG-25/raspberry-pi-thermostat) | Raspberry Pi GPIO, UART, state machines, simulation, and hardware-aware design |
-| [CS 410 Reverse Engineering](https://github.com/PhantomOSG-25/CS_410_Software_Reverse_Engineering) | Security analysis, controlled experiments, and responsible documentation |
-| [CS 330 Graphics and Visualization](https://github.com/PhantomOSG-25/CS-330-Computer-Graphics-and-Visualization) | C++ OpenGL rendering, GLSL shaders, and graphics pipeline fundamentals |
+## Technical Foundation
 
-## Technical strengths
+- **Programming and data:** Python, Java, SQL, MySQL, MongoDB, SQLite, and foundational JavaScript
+- **Systems and tools:** Linux, Bash, Git, GitHub, Raspberry Pi, REST APIs, and client-server concepts
+- **Quality and analysis:** Unit testing, validation, debugging, root-cause analysis, requirements, Agile, Scrum, and technical documentation
 
-- **Languages:** C++, Python, Java, JavaScript, SQL
-- **Engineering:** requirements analysis, modular design, debugging, code review, documentation
-- **Quality:** unit testing, integration testing, coverage, static analysis, CI workflows
-- **Security:** secure input handling, threat modeling, vulnerability analysis, privacy-aware publication
-- **Platforms:** Android, Linux, Windows, Raspberry Pi, GitHub Actions
+## Current Direction
 
-## What I am looking for
+- Completing bachelor's coursework in August 2026
+- Planning to begin an M.S. in Artificial Intelligence in September 2026, subject to final enrollment plans
+- Seeking remote, hybrid, or on-site opportunities where troubleshooting, reliability, testing, communication, and continuous learning matter
 
-Entry-level opportunities in application support, software QA/testing, systems analysis, junior development, or security-minded software engineering—especially teams that value continuous learning and dependable delivery.
+## Connect
 
-## Portfolio approach
-
-Each repository is organized as a reviewable case study: clear scope, reproducible instructions, verification evidence, and honest provenance. Coursework source records remain private when they contain personal metadata or artifacts that do not belong in a public portfolio.
+- [Portfolio](https://phantomosg-25.github.io/michaelbwood.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/michael-wood-752082361)
