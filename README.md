@@ -21,7 +21,7 @@ My background in field service, construction, logistics, equipment operation, cu
 
 ## Current Direction
 
-- B.S. in Computer Science, Software Engineering concentration — coursework completed August 2026; commencement pending
+- B.S. in Computer Science, Software Engineering concentration — degree requirements completed; anticipated conferral September 1, 2026
 - Final GPA: 3.03
 - Planning to begin an M.S. in Artificial Intelligence in September 2026, subject to final enrollment plans
 - Seeking remote, hybrid, or on-site opportunities where troubleshooting, reliability, testing, communication, and continuous learning matter
