@@ -1,6 +1,6 @@
 # Hi, I'm Michael B. Wood
 
-I am completing a **B.S. in Computer Science with a concentration in Software Engineering** and preparing to move from hands-on field operations into technology. I am especially interested in application support, software quality assurance, systems analysis, and select junior development roles.
+I have completed the coursework for a **B.S. in Computer Science with a concentration in Software Engineering** and am awaiting commencement. I am moving from hands-on field operations into technology, with a focus on application support, software quality assurance, systems analysis, and select junior development roles.
 
 My background in field service, construction, logistics, equipment operation, customer service, and business ownership gives me a practical approach to software: understand the real problem, communicate clearly, document the work, and verify the result.
 
@@ -11,7 +11,7 @@ My background in field service, construction, logistics, equipment operation, cu
 | [Raspberry Pi Thermostat System](https://github.com/PhantomOSG-25/raspberry-pi-thermostat) | Embedded software, state-machine design, hardware integration, and data persistence | Python, Linux, SQLite, Raspberry Pi |
 | [Deep Q-Learning Treasure Maze](https://github.com/PhantomOSG-25/deep-q-learning-treasure-maze) | Reinforcement learning, neural networks, experience replay, and model evaluation | Python, TensorFlow, Keras |
 | [Animal Rescue CRUD Module](https://github.com/PhantomOSG-25/animal-rescue-dashboard) | Reusable data access, database operations, and client-server design | Python, MongoDB, PyMongo |
-| [Java Service Validation and Testing](https://github.com/PhantomOSG-25/java-service-validation) | Requirements-based validation, unit-test design, and boundary testing | Java, JUnit |
+| [Java Service Validation and Testing](https://github.com/PhantomOSG-25/CS-320-Software-Test-Automation) | Requirements-based validation, unit-test design, and boundary testing | Java, JUnit |
 
 ## Technical Foundation
 
@@ -21,7 +21,8 @@ My background in field service, construction, logistics, equipment operation, cu
 
 ## Current Direction
 
-- Completing bachelor's coursework in August 2026
+- B.S. in Computer Science, Software Engineering concentration — degree requirements completed; anticipated conferral September 1, 2026
+- Final GPA: 3.03
 - Planning to begin an M.S. in Artificial Intelligence in September 2026, subject to final enrollment plans
 - Seeking remote, hybrid, or on-site opportunities where troubleshooting, reliability, testing, communication, and continuous learning matter
 
